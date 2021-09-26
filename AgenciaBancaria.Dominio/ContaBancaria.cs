@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AgenciaBancaria.Dominio
 {
-    public class ContaBancaria
+    public abstract class ContaBancaria
     {
         public ContaBancaria(Cliente cliente)
         {
