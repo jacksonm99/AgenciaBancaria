@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RcSJR1h+U/mhK3ZdBuqYB4kzVomGS5r+v6PxW7EoksBD45ompYOlwCh/xWBZrbBZVBunAoEPdH14BQG6DX4xgg==",
+  "dgSpecHash": "6eRTPvOnodOFh9nKGHdtqDZTLzQCrWjFepWGjBIiaLnKpUbVObdhuODR4JNKtZ0kgW4cBITC0jpGFaJ+hNH+yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55819\\Desktop\\ProjetoJogos\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\55819\\Desktop\\AgenciaBancaria\\AgenciaBancaria.Dominio\\AgenciaBancaria.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
